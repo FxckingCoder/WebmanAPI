@@ -12,7 +12,7 @@ namespace WebmanAPI
 
         /// <summary>
         /// Class By @FxckingCoder
-        /// Check the below link or updates to this class
+        /// Check the below link for updates to this class
         /// Thanks for all the support :D
         /// http://www.GitHub.com/FxckingCoder
         /// </summary>
