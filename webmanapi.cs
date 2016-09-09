@@ -9,6 +9,14 @@ namespace WebmanAPI
 {
     class webmanapi
     {
+
+        /// <summary>
+        /// Class By @FxckingCoder
+        /// Check the below link or updates to this class
+        /// Thanks for all the support :D
+        /// http://www.GitHub.com/FxckingCoder
+        /// </summary>
+        
         private WebClient c = new WebClient();
 
         #region Ps3 On - Off
@@ -267,3 +275,4 @@ namespace WebmanAPI
         #endregion
     }
 }
+
